@@ -1,0 +1,34 @@
+<div class="login">
+    <div class="div">
+      <div class="overlap-group">
+        <p class="text-wrapper">Bienvenido a la Plataforma del Padrón Veracruzano de Investigadores</p>
+      </div>
+      <div class="overlap">
+        <div class="text-wrapper-2" (click)="redirectToRecuperacionPassword()">Olvidé mi contraseña</div>
+        <p class="no-estas-registrado">
+          <span class="span">¿No estas registrado? </span> <span class="text-wrapper-3" (click)="redirectToRegisterUser()">Registrate aqui.</span>
+        </p>
+        <div class="text-wrapper-4">Inicio de sesión</div>
+        <input class="rectangle"
+             type="text"
+             id="rfc"
+             required
+             [(ngModel)]="inicio_sesion.rfc"
+             name=" rfc"
+      />
+        <div class="overlap-2">
+          <div class="rectangle-2"></div>
+          <div class="text-wrapper-5" (click)="saveInicioSesion()">Aceptar</div>
+        </div>
+        <input class="rectangle-wrapper"
+        type="password"
+        id="contraseña">
+        <div class="text-wrapper-6">RFC</div>
+        <div class="text-wrapper-7">Contraseña</div>
+      </div>
+      <div class="overlap-3">
+        <div class="text-wrapper-8">COVEICyDET</div>
+        <img class="logo" src="/assets/logo.svg" />
+      </div>
+    </div>
+  </div>

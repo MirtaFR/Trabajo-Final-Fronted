@@ -1,0 +1,297 @@
+.registro {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.registro .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.registro .overlap-group {
+  position: absolute;
+  width: 1300px;
+  height: 740px;
+  top: 183px;
+  left: 70px;
+  background-color: #ffffff;
+  border-radius: 25px;
+  border: 3px solid;
+  border-color: #04032e;
+}
+
+.registro .text-wrapper {
+  position: absolute;
+  top: 25px;
+  left: 589px;
+  font-family: "Inria Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.registro .rectangle {
+  top: 192px;
+  left: 56px;
+  background-color: #d9d9d9;
+  position: absolute;
+  width: 350px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.registro .rectangle-2 {
+  top: 328px;
+  left: 56px;
+  background-color: #d9d9d9;
+  position: absolute;
+  width: 350px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.registro .rectangle-3 {
+  top: 464px;
+  left: 56px;
+  background-color: #d9d9d9;
+  position: absolute;
+  width: 350px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.registro .rectangle-4 {
+  top: 464px;
+  left: 472px;
+  background-color: #d9d9d9;
+  position: absolute;
+  width: 350px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.registro .overlap {
+  position: absolute;
+  width: 350px;
+  height: 50px;
+  top: 607px;
+  left: 475px;
+  border-radius: 5px;
+}
+
+.registro .rectangle-5 {
+  top: 0;
+  left: 0;
+  background-color: #04032e;
+  position: absolute;
+  width: 350px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.registro .text-wrapper-2 {
+  position: absolute;
+  top: 7px;
+  left: 111px;
+  font-family: "Inria Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.registro .rectangle-6 {
+  top: 328px;
+  left: 470px;
+  background-color: #d9d9d9;
+  position: absolute;
+  width: 350px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.registro .rectangle-7 {
+  top: 328px;
+  left: 884px;
+  background-color: #d9d9d9;
+  position: absolute;
+  width: 350px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.registro .rectangle-8 {
+  top: 192px;
+  left: 470px;
+  background-color: #d9d9d9;
+  position: absolute;
+  width: 350px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.registro .rectangle-9 {
+  top: 192px;
+  left: 884px;
+  background-color: #d9d9d9;
+  position: absolute;
+  width: 350px;
+  height: 50px;
+  border-radius: 5px;
+}
+
+.registro .text-wrapper-3 {
+  position: absolute;
+  top: 153px;
+  left: 55px;
+  font-family: "Inria Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.registro .text-wrapper-4 {
+  position: absolute;
+  top: 292px;
+  left: 56px;
+  font-family: "Inria Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.registro .text-wrapper-5 {
+  position: absolute;
+  top: 292px;
+  left: 470px;
+  font-family: "Inria Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.registro .text-wrapper-6 {
+  position: absolute;
+  top: 292px;
+  left: 884px;
+  font-family: "Inria Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.registro .text-wrapper-7 {
+  position: absolute;
+  top: 428px;
+  left: 56px;
+  font-family: "Inria Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.registro .text-wrapper-8 {
+  position: absolute;
+  top: 432px;
+  left: 472px;
+  font-family: "Inria Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.registro .text-wrapper-9 {
+  left: 470px;
+  position: absolute;
+  top: 153px;
+  font-family: "Inria Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.registro .text-wrapper-10 {
+  left: 884px;
+  position: absolute;
+  top: 153px;
+  font-family: "Inria Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.registro .tengo-una-cuenta {
+  position: absolute;
+  top: 685px;
+  left: 519px;
+  font-family: "Inria Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.registro .span {
+  color: #000000;
+}
+
+.registro .text-wrapper-11 {
+  color: #0065ff;
+}
+
+.registro .overlap-2 {
+  position: absolute;
+  width: 1440px;
+  height: 105px;
+  top: 0;
+  left: 0;
+  background-color: #04032d;
+}
+
+.registro .text-wrapper-12 {
+  position: absolute;
+  top: 30px;
+  left: 662px;
+  font-family: "Inria Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.registro .logo {
+  position: absolute;
+  width: 131px;
+  height: 73px;
+  top: 16px;
+  left: 525px;
+  object-fit: cover;
+}

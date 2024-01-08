@@ -1,0 +1,417 @@
+.domicilio-particular {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .domicilio-particular .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .domicilio-particular .overlap-group {
+    position: absolute;
+    width: 1300px;
+    height: 740px;
+    top: 183px;
+    left: 59px;
+    background-color: #ffffff;
+    border-radius: 25px;
+    border: 3px solid;
+    border-color: #04032e;
+  }
+  
+  .domicilio-particular .overlap {
+    position: absolute;
+    width: 223px;
+    height: 50px;
+    top: 643px;
+    left: 735px;
+    background-color: #04032e;
+    border-radius: 5px;
+  }
+  
+  .domicilio-particular .text-wrapper {
+    position: absolute;
+    top: 9px;
+    left: 72px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .domicilio-particular .overlap-2 {
+    position: absolute;
+    width: 223px;
+    height: 50px;
+    top: 643px;
+    left: 1025px;
+    border-radius: 5px;
+  }
+  
+  .domicilio-particular .rectangle {
+    position: absolute;
+    width: 223px;
+    height: 50px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #04032e;
+  }
+  
+  .domicilio-particular .text-wrapper-2 {
+    position: absolute;
+    top: 9px;
+    left: 63px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #04032e;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .domicilio-particular .informacion-general {
+    position: absolute;
+    top: 25px;
+    left: 365px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .domicilio-particular .div-wrapper {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 195px;
+    left: 70px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .domicilio-particular .text-wrapper-3 {
+    position: absolute;
+    top: 13px;
+    left: 231px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .domicilio-particular .p {
+    position: absolute;
+    top: 205px;
+    left: 481px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .domicilio-particular .rectangle-2 {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 328px;
+    left: 67px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .domicilio-particular .rectangle-3 {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 328px;
+    left: 481px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .domicilio-particular .text-wrapper-4 {
+    position: absolute;
+    top: 153px;
+    left: 66px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .domicilio-particular .text-wrapper-5 {
+    position: absolute;
+    top: 292px;
+    left: 67px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .domicilio-particular .text-wrapper-6 {
+    position: absolute;
+    top: 292px;
+    left: 481px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .domicilio-particular .abajo-wrapper {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 331px;
+    left: 898px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .domicilio-particular .abajo {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 11px;
+    left: 309px;
+    object-fit: cover;
+  }
+  
+  .domicilio-particular .text-wrapper-7 {
+    position: absolute;
+    top: 292px;
+    left: 895px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .domicilio-particular .img-wrapper {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 439px;
+    left: 70px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .domicilio-particular .img {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 11px;
+    left: 312px;
+    object-fit: cover;
+  }
+  
+  .domicilio-particular .overlap-3 {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 439px;
+    left: 484px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .domicilio-particular .text-wrapper-8 {
+    position: absolute;
+    top: 400px;
+    left: 67px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .domicilio-particular .text-wrapper-9 {
+    position: absolute;
+    top: 400px;
+    left: 481px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .domicilio-particular .overlap-4 {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 439px;
+    left: 898px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .domicilio-particular .text-wrapper-10 {
+    position: absolute;
+    top: 400px;
+    left: 895px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .domicilio-particular .volver-flecha {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 26px;
+    left: 38px;
+    object-fit: cover;
+  }
+  
+  .domicilio-particular .overlap-5 {
+    position: absolute;
+    width: 1440px;
+    height: 165px;
+    top: 0;
+    left: 0;
+  }
+  
+  .domicilio-particular .overlap-6 {
+    position: absolute;
+    width: 1440px;
+    height: 134px;
+    top: 0;
+    left: 0;
+  }
+  
+  .domicilio-particular .rectangle-4 {
+    position: absolute;
+    width: 1440px;
+    height: 105px;
+    top: 0;
+    left: 0;
+    background-color: #04032d;
+  }
+  
+  .domicilio-particular .text-wrapper-11 {
+    position: absolute;
+    top: 30px;
+    left: 662px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .domicilio-particular .rectangle-5 {
+    position: absolute;
+    width: 319px;
+    height: 59px;
+    top: 75px;
+    left: 1051px;
+    background-color: #d9d9d9;
+    border-radius: 25px;
+  }
+  
+  .domicilio-particular .text-wrapper-12 {
+    position: absolute;
+    top: 89px;
+    left: 1106px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .domicilio-particular .overlap-7 {
+    position: absolute;
+    width: 73px;
+    height: 55px;
+    top: 110px;
+    left: 0;
+    border-radius: 0px 25px 25px 0px;
+  }
+  
+  .domicilio-particular .rectangle-6 {
+    position: absolute;
+    width: 73px;
+    height: 55px;
+    top: 0;
+    left: 0;
+    background-color: #04032e;
+    border-radius: 0px 25px 25px 0px;
+  }
+  
+  .domicilio-particular .menu {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 10px;
+    left: 19px;
+    object-fit: cover;
+  }
+  
+  .domicilio-particular .overlap-8 {
+    position: absolute;
+    width: 1440px;
+    height: 77px;
+    top: 947px;
+    left: 0;
+    background-color: #04032e;
+  }
+  
+  .domicilio-particular .text-wrapper-13 {
+    position: absolute;
+    top: 23px;
+    left: 495px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .domicilio-particular .copyright {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 29px;
+    left: 469px;
+    object-fit: cover;
+  }

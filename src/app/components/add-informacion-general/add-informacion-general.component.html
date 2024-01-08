@@ -1,0 +1,101 @@
+<div class="informacion-general">
+  <div class="div">
+    <div class="overlap-group">
+      <p class="text-wrapper">Informacion general &gt; Datos personales</p>
+      <input class="rectangle"
+        type="text"
+        id="nombre"
+        required
+        [(ngModel)]="informacion_general.nombre"
+        name="nombre"
+      />
+      <input class="rectangle-5"
+        type="text"
+        id="apellido_paterno"
+        required
+        [(ngModel)]="informacion_general.apellido_paterno"
+        name="apellido_paterno"
+      />
+      <div class="overlap">
+        <div class="text-wrapper-2" (click)="saveInformacionGeneral()">Guardar</div>
+      </div>
+      <div class="overlap-2">
+        <div class="rectangle-3"></div>
+        <div class="text-wrapper-3">Siguiente</div>
+      </div>
+      <input class="rectangle-6"
+        type="text"
+        id="apellido_materno"
+        required
+        [(ngModel)]="informacion_general.apellido_materno"
+        name="apellido_materno"
+      />
+      <input class="rectangle-2"
+        type="text"
+        id="rfc"
+        required
+        [(ngModel)]="informacion_general.rfc"
+        name="rfc"
+      />
+      <input class="rectangle-4"
+        type="text"
+        id="curp"
+        required
+        [(ngModel)]="informacion_general.curp"
+        name="curp"
+      />
+      <div class="text-wrapper-4">Nombre(s)</div>
+      <div class="text-wrapper-5">RFC</div>
+      <div class="text-wrapper-6">Curp</div>
+      <div class="text-wrapper-7">Sexo</div>
+
+<label>
+  <input type="radio"
+    id="femenino"
+    [(ngModel)]="informacion_general.sexo"
+    name="sexo"
+    value="Femenino"
+    required
+  />
+  <div class="text-wrapper-8 ellipse-wrapper" [class.selected]="informacion_general.sexo === 'Femenino'"></div>
+  <div class="text-wrapper-8">Femenino</div>
+</label>
+
+<label>
+  <input type="radio"
+    id="masculino"
+    [(ngModel)]="informacion_general.sexo"
+    name="sexo"
+    value="Masculino"
+    required
+  />
+  <div class="text-wrapper-9 ellipse-wrapper" [class.selected]="informacion_general.sexo === 'Masculino'"></div>
+  <div class="text-wrapper-9">Masculino</div>
+</label>
+
+  <div class="text-wrapper-10">Apellido Paterno</div>
+  <div class="text-wrapper-11">Apellido Materno</div>
+  <div class="ellipse-w2"></div>
+  <div class="ellipse-2"></div>
+</div>
+
+    <div class="overlap-3">
+      <div class="overlap-4">
+        <div class="rectangle-7"></div>
+        <div class="text-wrapper-12">COVEICyDET</div>
+        <img class="logo" src="/assets/logo.svg" /> 
+        <div class="rectangle-8"></div>
+        <div class="text-wrapper-13">Tiempo de sesion:</div>
+      </div>
+      <div class="overlap-5">
+        <div class="rectangle-9"></div>
+        <img class="menu" src="img/menu-1.png" />
+      </div>
+    </div>
+
+    <div class="overlap-6">
+      <p class="p">COVEICyDET | 2022 | Todos los derechos reservados</p>
+      <img class="copyright" src="img/copyright-64-1.png" />
+    </div>
+  </div>
+</div>

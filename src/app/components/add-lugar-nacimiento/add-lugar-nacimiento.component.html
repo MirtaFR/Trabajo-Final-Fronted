@@ -1,0 +1,75 @@
+<div class="lugar-de-nacimiento">
+    <div class="div">
+      <div class="overlap-group">
+        <div class="overlap"><div class="text-wrapper" (click)="saveLugarNacimiento()">Guardar</div></div>
+        <div class="overlap-2">
+          <div class="rectangle">1</div>
+          <div class="text-wrapper-2">Siguiente</div>
+        </div>
+        <p class="informacion-general">Informacion general &gt; Lugar de nacimiento</p>
+        <input class="rectangle-2"
+        type="text"
+        id="pais"
+        required
+        [(ngModel)]="lugar_nacimiento.pais"
+        name=" pais"
+ />
+        <div class="calendario-de-pared-wrapper">
+          <input class="rectangle"
+          type="date"
+          id="fecha_nacimiento"
+          required
+          [(ngModel)]="lugar_nacimiento.fecha_nacimiento"
+          name="fecha_nacimiento"
+        />
+        </div>
+        <input class="rectangle-3"
+        type="text"
+        id="no_fm"
+        required
+        [(ngModel)]="lugar_nacimiento.no_fm"
+        name=" no_fm"
+ />
+        <input class="rectangle-4"
+        type="text"
+        id="estado"
+        required
+        [(ngModel)]="lugar_nacimiento.estado"
+        name=" estado"
+ />
+ <input class="rectangle-5"
+ type="text"
+ id="ciudad"
+ required
+ [(ngModel)]="lugar_nacimiento.ciudad"
+ name=" ciudad"
+/>
+        <div class="text-wrapper-3">Pais</div>
+        <div class="text-wrapper-4">Fecha de nacimiento</div>
+        <div class="text-wrapper-5">No. FM (Extranjeros)</div>
+        <div class="overlap-3">
+          <div class="text-wrapper-6">Estado</div>
+          <img class="logo" src="/assets/logo.svg" />
+        </div>
+        <div class="text-wrapper-7">Ciudad</div>
+        <img class="volver-flecha" src="img/volver-flecha-izquierda-1.png" />
+      </div>
+      <div class="overlap-4">
+        <div class="overlap-5">
+          <div class="rectangle-6">6</div>
+          <div class="text-wrapper-8">COVEICyDET</div>
+          <img class="img" src="/assets/logo.svg" />
+          <div class="rectangle-7">7</div>
+          <div class="text-wrapper-9">Tiempo de sesion:</div>
+        </div>
+        <div class="overlap-6">
+          <div class="rectangle-8">8</div>
+          <img class="menu" src="img/menu-1.png" />
+        </div>
+      </div>
+      <div class="overlap-7">
+        <p class="p">COVEICyDET | 2022 | Todos los derechos reservados</p>
+        <img class="copyright" src="img/copyright-64-1.png" />
+      </div>
+    </div>
+  </div>

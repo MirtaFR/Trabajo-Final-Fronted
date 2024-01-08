@@ -1,0 +1,372 @@
+.contacto {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .contacto .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .contacto .overlap-group {
+    position: absolute;
+    width: 1300px;
+    height: 740px;
+    top: 183px;
+    left: 59px;
+    background-color: #ffffff;
+    border-radius: 25px;
+    border: 3px solid;
+    border-color: #04032e;
+  }
+  
+  .contacto .overlap {
+    position: absolute;
+    width: 223px;
+    height: 50px;
+    top: 643px;
+    left: 735px;
+    background-color: #04032e;
+    border-radius: 5px;
+  }
+  
+  .contacto .text-wrapper {
+    position: absolute;
+    top: 9px;
+    left: 72px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contacto .overlap-2 {
+    position: absolute;
+    width: 223px;
+    height: 50px;
+    top: 643px;
+    left: 1025px;
+    border-radius: 5px;
+  }
+  
+  .contacto .rectangle {
+    position: absolute;
+    width: 223px;
+    height: 50px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #04032e;
+  }
+  
+  .contacto .text-wrapper-2 {
+    position: absolute;
+    top: 9px;
+    left: 63px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #04032e;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contacto .informacion-general {
+    position: absolute;
+    top: 25px;
+    left: 428px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .contacto .rectangle-2 {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 184px;
+    left: 66px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .contacto .rectangle-3 {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 184px;
+    left: 480px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .contacto .text-wrapper-3 {
+    left: 66px;
+    position: absolute;
+    top: 153px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contacto .text-wrapper-4 {
+    left: 480px;
+    position: absolute;
+    top: 153px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contacto .rectangle-4 {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 184px;
+    left: 894px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .contacto .rectangle-5 {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 312px;
+    left: 894px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .contacto .text-wrapper-5 {
+    position: absolute;
+    top: 153px;
+    left: 894px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contacto .text-wrapper-6 {
+    position: absolute;
+    top: 281px;
+    left: 894px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contacto .rectangle-6 {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 312px;
+    left: 66px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .contacto .rectangle-7 {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 312px;
+    left: 480px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .contacto .text-wrapper-7 {
+    position: absolute;
+    top: 281px;
+    left: 66px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contacto .text-wrapper-8 {
+    position: absolute;
+    top: 281px;
+    left: 480px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contacto .volver-flecha {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 26px;
+    left: 38px;
+    object-fit: cover;
+  }
+  
+  .contacto .overlap-3 {
+    position: absolute;
+    width: 1440px;
+    height: 165px;
+    top: 0;
+    left: 0;
+  }
+  
+  .contacto .overlap-4 {
+    position: absolute;
+    width: 1440px;
+    height: 134px;
+    top: 0;
+    left: 0;
+  }
+  
+  .contacto .rectangle-8 {
+    position: absolute;
+    width: 1440px;
+    height: 105px;
+    top: 0;
+    left: 0;
+    background-color: #04032d;
+  }
+  
+  .contacto .text-wrapper-9 {
+    position: absolute;
+    top: 30px;
+    left: 662px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .contacto .logo {
+    position: absolute;
+    width: 131px;
+    height: 73px;
+    top: 16px;
+    left: 525px;
+    object-fit: cover;
+  }
+  
+  .contacto .rectangle-9 {
+    position: absolute;
+    width: 319px;
+    height: 59px;
+    top: 75px;
+    left: 1051px;
+    background-color: #d9d9d9;
+    border-radius: 25px;
+  }
+  
+  .contacto .text-wrapper-10 {
+    position: absolute;
+    top: 89px;
+    left: 1106px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contacto .overlap-5 {
+    position: absolute;
+    width: 73px;
+    height: 55px;
+    top: 110px;
+    left: 0;
+    border-radius: 0px 25px 25px 0px;
+  }
+  
+  .contacto .rectangle-10 {
+    position: absolute;
+    width: 73px;
+    height: 55px;
+    top: 0;
+    left: 0;
+    background-color: #04032e;
+    border-radius: 0px 25px 25px 0px;
+  }
+  
+  .contacto .menu {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 10px;
+    left: 19px;
+    object-fit: cover;
+  }
+  
+  .contacto .img {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: -753px;
+    left: -7154px;
+  }
+  
+  .contacto .overlap-6 {
+    position: absolute;
+    width: 1440px;
+    height: 77px;
+    top: 947px;
+    left: 0;
+    background-color: #04032e;
+  }
+  
+  .contacto .p {
+    position: absolute;
+    top: 23px;
+    left: 495px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .contacto .copyright {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 29px;
+    left: 469px;
+    object-fit: cover;
+  }
+  

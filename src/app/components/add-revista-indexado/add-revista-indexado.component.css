@@ -1,0 +1,220 @@
+.agregar {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .agregar .overlap-group-wrapper {
+    background-color: #ffffff;
+    width: 831px;
+    height: 860px;
+  }
+  
+  .agregar .overlap-group {
+    position: relative;
+    height: 860px;
+    background-color: #ffffff;
+    border-radius: 25px;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .agregar .overlap {
+    position: absolute;
+    width: 223px;
+    height: 50px;
+    top: 757px;
+    left: 149px;
+    border-radius: 5px;
+  }
+  
+  .agregar .rectangle {
+    width: 223px;
+    top: 0;
+    left: 0;
+    background-color: #04032e;
+    position: absolute;
+    height: 50px;
+    border-radius: 5px;
+  }
+  
+  .agregar .text-wrapper {
+    position: absolute;
+    top: 9px;
+    left: 71px;
+    font-family: "Inria Sans", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .agregar .div {
+    position: absolute;
+    width: 223px;
+    height: 50px;
+    top: 757px;
+    left: 460px;
+    border-radius: 5px;
+  }
+  
+  .agregar .rectangle-2 {
+    position: absolute;
+    width: 223px;
+    height: 50px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #04032e;
+  }
+  
+  .agregar .text-wrapper-2 {
+    position: absolute;
+    top: 9px;
+    left: 67px;
+    font-family: "Inria Sans", Helvetica;
+    font-weight: 400;
+    color: #04032e;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .agregar .rectangle-3 {
+    width: 534px;
+    top: 200px;
+    left: 148px;
+    background-color: #d9d9d9;
+    position: absolute;
+    height: 50px;
+    border-radius: 5px;
+  }
+  
+  .agregar .rectangle-4 {
+    width: 534px;
+    top: 308px;
+    left: 148px;
+    background-color: #d9d9d9;
+    position: absolute;
+    height: 50px;
+    border-radius: 5px;
+  }
+  
+  .agregar .text-wrapper-3 {
+    position: absolute;
+    width: 831px;
+    top: 48px;
+    left: -1px;
+    font-family: "Inria Sans", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .agregar .text-wrapper-4 {
+    position: absolute;
+    top: 273px;
+    left: 148px;
+    font-family: "Inria Sans", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .agregar .calendario-de-pared-wrapper {
+    position: absolute;
+    width: 300px;
+    height: 50px;
+    top: 525px;
+    left: 149px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .agregar .calendario-de-pared {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 12px;
+    left: 263px;
+    object-fit: cover;
+  }
+  
+  .agregar .text-wrapper-5 {
+    position: absolute;
+    top: 489px;
+    left: 148px;
+    font-family: "Inria Sans", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .agregar .rectangle-5 {
+    width: 534px;
+    top: 632px;
+    left: 148px;
+    background-color: #d9d9d9;
+    position: absolute;
+    height: 50px;
+    border-radius: 5px;
+  }
+  
+  .agregar .text-wrapper-6 {
+    position: absolute;
+    top: 597px;
+    left: 148px;
+    font-family: "Inria Sans", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .agregar .rectangle-6 {
+    width: 534px;
+    top: 416px;
+    left: 148px;
+    background-color: #d9d9d9;
+    position: absolute;
+    height: 50px;
+    border-radius: 5px;
+  }
+  
+  .agregar .text-wrapper-7 {
+    position: absolute;
+    top: 381px;
+    left: 148px;
+    font-family: "Inria Sans", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .agregar .text-wrapper-8 {
+    position: absolute;
+    top: 165px;
+    left: 148px;
+    font-family: "Inria Sans", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  

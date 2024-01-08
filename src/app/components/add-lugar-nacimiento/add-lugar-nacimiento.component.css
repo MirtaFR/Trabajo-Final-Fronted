@@ -1,0 +1,366 @@
+.lugar-de-nacimiento {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .lugar-de-nacimiento .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .lugar-de-nacimiento .overlap-group {
+    position: absolute;
+    width: 1300px;
+    height: 740px;
+    top: 183px;
+    left: 59px;
+    background-color: #ffffff;
+    border-radius: 25px;
+    border: 3px solid;
+    border-color: #04032e;
+  }
+  
+  .lugar-de-nacimiento .overlap {
+    position: absolute;
+    width: 223px;
+    height: 50px;
+    top: 643px;
+    left: 735px;
+    background-color: #04032e;
+    border-radius: 5px;
+  }
+  
+  .lugar-de-nacimiento .text-wrapper {
+    position: absolute;
+    top: 9px;
+    left: 72px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .lugar-de-nacimiento .overlap-2 {
+    position: absolute;
+    width: 223px;
+    height: 50px;
+    top: 643px;
+    left: 1025px;
+    border-radius: 5px;
+  }
+  
+  .lugar-de-nacimiento .rectangle {
+    position: absolute;
+    width: 223px;
+    height: 50px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #04032e;
+  }
+  
+  .lugar-de-nacimiento .text-wrapper-2 {
+    position: absolute;
+    top: 9px;
+    left: 63px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #04032e;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .lugar-de-nacimiento .informacion-general {
+    position: absolute;
+    top: 25px;
+    left: 349px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .lugar-de-nacimiento .rectangle-2 {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 192px;
+    left: 67px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .lugar-de-nacimiento .calendario-de-pared-wrapper {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 331px;
+    left: 70px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .lugar-de-nacimiento .calendario-de-pared {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 12px;
+    left: 302px;
+    object-fit: cover;
+  }
+  
+  .lugar-de-nacimiento .rectangle-3 {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 328px;
+    left: 481px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .lugar-de-nacimiento .rectangle-4 {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 192px;
+    left: 481px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .lugar-de-nacimiento .rectangle-5 {
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    top: 192px;
+    left: 895px;
+    background-color: #d9d9d9;
+    border-radius: 5px;
+  }
+  
+  .lugar-de-nacimiento .text-wrapper-3 {
+    position: absolute;
+    top: 153px;
+    left: 66px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .lugar-de-nacimiento .text-wrapper-4 {
+    position: absolute;
+    top: 292px;
+    left: 67px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .lugar-de-nacimiento .text-wrapper-5 {
+    position: absolute;
+    top: 292px;
+    left: 481px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .lugar-de-nacimiento .overlap-3 {
+    position: absolute;
+    width: 145px;
+    height: 95px;
+    top: 90px;
+    left: 410px;
+  }
+  
+  .lugar-de-nacimiento .text-wrapper-6 {
+    position: absolute;
+    top: 66px;
+    left: 74px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .lugar-de-nacimiento .logo {
+    position: absolute;
+    width: 131px;
+    height: 73px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .lugar-de-nacimiento .text-wrapper-7 {
+    position: absolute;
+    top: 153px;
+    left: 895px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .lugar-de-nacimiento .volver-flecha {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 26px;
+    left: 38px;
+    object-fit: cover;
+  }
+  
+  .lugar-de-nacimiento .overlap-4 {
+    position: absolute;
+    width: 1440px;
+    height: 165px;
+    top: 0;
+    left: 0;
+  }
+  
+  .lugar-de-nacimiento .overlap-5 {
+    position: absolute;
+    width: 1440px;
+    height: 134px;
+    top: 0;
+    left: 0;
+  }
+  
+  .lugar-de-nacimiento .rectangle-6 {
+    position: absolute;
+    width: 1440px;
+    height: 105px;
+    top: 0;
+    left: 0;
+    background-color: #04032d;
+  }
+  
+  .lugar-de-nacimiento .text-wrapper-8 {
+    position: absolute;
+    top: 30px;
+    left: 662px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .lugar-de-nacimiento .img {
+    position: absolute;
+    width: 131px;
+    height: 73px;
+    top: 16px;
+    left: 525px;
+    object-fit: cover;
+  }
+  
+  .lugar-de-nacimiento .rectangle-7 {
+    position: absolute;
+    width: 319px;
+    height: 59px;
+    top: 75px;
+    left: 1051px;
+    background-color: #d9d9d9;
+    border-radius: 25px;
+  }
+  
+  .lugar-de-nacimiento .text-wrapper-9 {
+    position: absolute;
+    top: 89px;
+    left: 1106px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .lugar-de-nacimiento .overlap-6 {
+    position: absolute;
+    width: 73px;
+    height: 55px;
+    top: 110px;
+    left: 0;
+    border-radius: 0px 25px 25px 0px;
+  }
+  
+  .lugar-de-nacimiento .rectangle-8 {
+    position: absolute;
+    width: 73px;
+    height: 55px;
+    top: 0;
+    left: 0;
+    background-color: #04032e;
+    border-radius: 0px 25px 25px 0px;
+  }
+  
+  .lugar-de-nacimiento .menu {
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 10px;
+    left: 19px;
+    object-fit: cover;
+  }
+  
+  .lugar-de-nacimiento .overlap-7 {
+    position: absolute;
+    width: 1440px;
+    height: 77px;
+    top: 947px;
+    left: 0;
+    background-color: #04032e;
+  }
+  
+  .lugar-de-nacimiento .p {
+    position: absolute;
+    top: 23px;
+    left: 495px;
+    font-family: "Inria Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .lugar-de-nacimiento .copyright {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 29px;
+    left: 469px;
+    object-fit: cover;
+  }
